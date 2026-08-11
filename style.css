@@ -1,0 +1,50 @@
+h1 {
+    color: purple;
+}
+h2{
+    color: blue;
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+li{
+    font-size: 20px;
+}
+body{
+    background-color:blanchedalmond;
+}
+.love{
+    font-size: 25px;
+    color:red;
+    font-style: italic;
+}
+#roar{
+    font-family: sans-serif;
+}
+#love{
+    font-family: 'Segoe UI';
+}
+  p{
+    background-color: red;
+  }
+  h4{
+    background-color: chartreuse;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+  }
+  .div1{
+    background-color: chocolate;
+    height: 200px;
+    padding: 50px;
+  }
+  .div2{
+    background-color: cornflowerblue;
+    height: 100px;
+  }
+  .div3{
+    background-color: darkblue;
+    height: 70px;
+  }
